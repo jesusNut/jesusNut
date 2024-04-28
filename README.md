@@ -5,7 +5,7 @@
 </h1>
 <h3 align="center">Test Automation Engineer from India - Breaking applications and automating your friday blues..</h3>
 
-<div align="center">
+<div align="justify-content">
  <img align="center" alt="Coding1" width="500" src="https://media1.tenor.com/m/DhdRi3Mq7c8AAAAC/bugs-bunny-software.gif" style="width: 50%;">
  <img align="center" alt="Coding2" width="500" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" style="width: 50%;">
  </div>
