@@ -1,14 +1,17 @@
+[![](https://visitcount.itsvg.in/api?id=jesusNut&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<h1 align="center">Hi 👋, I'm Abhishek Bhardwaj aka JesusNut</h1>
-<h3 align="center">Breaking applications and automating your friday blues..</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhishek+Bhardwaj+aka+JesusNut;" />
+</h1>
+<h3 align="center">Test Automation Engineer from India - Breaking applications and automating your friday blues..</h3>
 
-<div style="display: flex; justify-content: center;">
-  <img align="center" alt="Coding1" width="400" src="https://media1.tenor.com/m/DhdRi3Mq7c8AAAAC/bugs-bunny-software.gif" style="width: 150%;">
-  <img align="center" alt="Coding2" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" style="width: 100%;">
-</div>
+<div align="justify-content">
+ <img align="center" alt="Coding1" width="300" src="https://media1.tenor.com/m/DhdRi3Mq7c8AAAAC/bugs-bunny-software.gif" style="width: 33.33%;">
+ <img align="center" alt="Coding2" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" style="width: 33.33%;">
+ <img align="center" alt="Coding3" width="300"  src="https://i.gifer.com/origin/ed/ed65e6aee989dd956a70601ec22ef4ae_w200.gif" style="width: 33.33%;">
+ </div>
 
 <br><br>
-
 
 # 💫 About Me:
 🔭 I’m currently working on Playwright & Supertest <br><br>🌱 I’m currently learning Jmeter.<br><br>👯 I’m looking to collaborate on Automation Framework Creation.<br><br>👨‍💻 All of my projects are available at https://github.com/jesusNut<br><br>📫 How to reach me contact@abhishekbhardwaj.sliet@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/abhishek-bhardwaj-jesusNut/<br><br>⚡ Fun fact : I couldn't mug up switch statement syntax in last 8 years.
@@ -16,7 +19,10 @@
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-bhardwaj-jesusNut) 
+[![Gamil](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:abhishekbhardwaj.sliet@gmail.com) 
+
 <br>
+
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MySql](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -51,9 +57,9 @@
 <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jesusNut&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jesusNut&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusNut&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=jesusnut&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jesusnut&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusnut&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br>
 
@@ -61,6 +67,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=jesusNut&limit=4&theme=algolia&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jesusNut&icon=1&color=0)](https://visitcount.itsvg.in)
+
 
 
