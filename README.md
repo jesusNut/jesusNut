@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Bhardwaj aka JesusNut</h1>
 <h3 align="center">Breaking applications and automating your friday blues..</h3>
 
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/bugs-bunny-software-daffy-duck-gif-16019423">
+
 # 💫 About Me:
 🔭 I’m currently working on Playwright, Supertest, Jmeter<br><br>🌱 I’m currently learning Advance Design Patterns.<br><br>👯 I’m looking to collaborate on Automation Framework Creation.<br><br>👨‍💻 All of my projects are available at https://github.com/jesusNut<br><br>📫 How to reach me contact@abhishekbhardwaj.sliet@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/abhishek-bhardwaj-jesusNut/<br><br>⚡ Fun fact : I couldn't mug up switch statement syntax in last 8 years.
 
