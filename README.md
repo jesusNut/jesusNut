@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=jesusNut&icon=1&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jesusnut&icon=0&color=2)](https://visitcount.itsvg.in)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhishek+Bhardwaj+aka+JesusNut;" />
@@ -13,6 +13,7 @@
 <br><br>
 
 # 💫 About Me:
+🌱 Know everything about me on my website https://jesusnut.github.io/portfolio_uno/ <br><br>
 🔭 I’m currently working on Playwright & Supertest <br><br>🌱 I’m currently learning Jmeter.<br><br>👯 I’m looking to collaborate on Automation Framework Creation.<br><br>👨‍💻 All of my projects are available at https://github.com/jesusNut<br><br>📫 How to reach me contact@abhishekbhardwaj.sliet@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/abhishek-bhardwaj-jesusNut/<br><br>⚡ Fun fact : I couldn't mug up switch statement syntax in last 8 years.
 
 
