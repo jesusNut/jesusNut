@@ -1,4 +1,8 @@
-[![](https://visitcount.itsvg.in/api?id=jesusnut&icon=0&color=2)](https://visitcount.itsvg.in)
+<p align="right"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jesusNut/count.svg" />
+</p>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhishek+Bhardwaj+aka+JesusNut;" />
