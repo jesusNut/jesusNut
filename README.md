@@ -16,7 +16,7 @@
 
 <br><br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+# 🎃 About Me:
 ⚡ Know everything about me on my portfolio website https://jesusnut.github.io/portfolio_uno/ <br><br>
 ⚡ I’m currently working on Playwright & Supertest <br><br>⚡ I’m currently learning Jmeter.<br><br>⚡ I’m looking to collaborate on Automation Framework Creation.<br><br>⚡ All of my projects are available at https://github.com/jesusNut<br><br>⚡ How to reach me contact@abhishekbhardwaj.sliet@gmail.com<br><br>⚡ Know about my experiences https://www.linkedin.com/in/abhishek-bhardwaj-jesusNut/<br><br>⚡ Fun fact : I couldn't mug up switch statement syntax in last 8 years.
 
@@ -41,7 +41,7 @@
     </a>
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /> </a>
     <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" /> </a>
-       <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="postman" width="40" height="40" /> </a>
+       <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40" /> </a>
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
         <img src="https://static-00.iconduck.com/assets.00/cypress-icon-2048x2048-swmlmjca.png" alt="cypress" width="40" height="40" />
     </a>
